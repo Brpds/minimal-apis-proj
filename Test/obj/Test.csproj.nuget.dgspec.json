@@ -4,14 +4,14 @@
     "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj": {
+    "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj",
+        "projectUniqueName": "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj",
         "projectName": "minimal-api",
-        "projectPath": "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj",
+        "projectPath": "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj",
         "packagesPath": "C:\\Users\\Brunno Roberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\obj\\",
+        "outputPath": "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brunno Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,8 +121,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj": {
-                "projectPath": "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj"
+              "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj": {
+                "projectPath": "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj"
               }
             }
           }
