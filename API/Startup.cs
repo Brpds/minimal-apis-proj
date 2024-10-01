@@ -87,12 +87,25 @@ public class Startup
                 
         );
         });
-    }
+
+        services.AddCors(options =>
+        {
+            options.AddPolicy("AllowAll", builder =>
+            {
+                builder.AllowAnyOrigin()
+                       .AllowAnyMethod()
+                       .AllowAnyHeader();
+            });
+        });
+
+}
 
     public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
     {
         app.UseSwagger();
         app.UseSwaggerUI();
+
+        app.UseCors("AllowAll");
 
         app.UseRouting();
 
