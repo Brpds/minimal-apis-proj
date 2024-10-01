@@ -4793,8 +4793,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj": {
-              "projectPath": "c:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj"
+            "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj": {
+              "projectPath": "C:\\Users\\Brunno Roberto\\Desktop\\WebDev\\NetC\\minimal-api\\API\\minimal-api.csproj"
             }
           }
         }
